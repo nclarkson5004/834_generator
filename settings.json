@@ -1,0 +1,25 @@
+{
+    "sender_id": "YOURSENDERID",
+    "receiver_id": "391995276",
+
+    "sender_tax_id": "000000000",
+
+    "usage_indicator": "T",
+
+    "action_code": "2",
+
+    "purpose_code": "00",
+    "reference_id": "",
+
+    "output_directory": "output",
+
+    "sponsor_name": "Your Company",
+    "sponsor_tax_id": "123456789",
+
+    "payer_name": "Insurance Company",
+    "payer_identifier": "999999999",
+
+    "group_number": "43",
+    "tier_structure": "4_TIER",
+    "time_zone_code": "ES"
+}
